@@ -1,0 +1,27 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>images_test/filefold.png</file>
+    <file>images_test/lines.png</file>
+    <file>images_test/runicon.png</file>
+    <file>images_test/change.png</file>
+    <file>images_test/video.png</file>
+    <file>images_test/settings.png</file>
+    <file>images_test/back.png</file>
+    <file>images_test/save.png</file>
+    <file>images_test/author.png</file>
+    <file>images_test/versions.png</file>
+    <file>images_test/Ordinateur.png</file>
+    <file>images_test/Score.png</file>
+    <file>images_test/count.png</file>
+    <file>images_test/selection.png</file>
+    <file>images_test/person.png</file>
+    <file>images_test/tally.png</file>
+    <file>images_test/tracking.png</file>
+    <file>images_test/recovery.png</file>
+    <file>images_test/folder_web.png</file>
+    <file>images_test/g1.png</file>
+    <file>images_test/net_speed.png</file>
+    <file>images_test/result.png</file>
+    <file>images_test/ini-image.png</file>
+  </qresource>
+</RCC>
